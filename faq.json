@@ -1,0 +1,39 @@
+
+{
+    "@context": "https://schema.org/",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is rapsocrypt",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A decentralized wallet. No accounts, no emails, no identity checks (KYC, AML)"
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What are transaction fees?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "When sending cryptocurrency a sender is required to pay a transaction fee to the underlying blockchain network. This fee is necessary in order for the transaction to be accepted and included in the blockchain by one of the network nodes (miners)"
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is Decentralized Finance?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Decentralized finance (DeFi) is an emerging financial technology that challenges the current centralized banking system"
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does Rapsocrypt collect user data?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rapsocrypt doesn't collect any data or use analytics tools that may expose any data about its users."
+            }
+        }
+    ]
+}
