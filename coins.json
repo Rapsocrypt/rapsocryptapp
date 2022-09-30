@@ -7,8 +7,8 @@
             "description": "Native cryptocurrencies on major blockchains."
         },
         {
-            "id": "dexes",
-            "name": "DEXes",
+            "id": "dexes coins",
+            "name": "Dexes coins",
             "description": "Decentralized cryptocurrency exchanges."
         },
         {
@@ -875,14 +875,14 @@
       {
           "code": "1INCH",
           "name": "1inch",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": {
               "name": "ethereum",
               "address": "0x111111111117dc0aa78b770fa6a738034120c302",
               "type": "ERC20"
           },
-          "description": "### Project Description\n\n1inch exchange is a decentralized exchange and an aggregator that tracks liquidity on all major decentralized crypto exchanges and enables users to discover best trade prices for exchanging tokens. \n\nInstead of swapping tokens from a single liquidity pool, 1inch splits the order across different pools on various exchanges and recommends the most efficient way to execute a trade.\n\nPathfinder is the discovery and routing algorithm developed by the 1inch team. For example, if a user wants to sell ETH for USDT, the pathfinder explores all DEXes (Uniswap, Sushiswap, Curve, Balancer etc) and suggests the most optimum way to split the order across multiple exchanges in a single transaction. \n\nAs a result the user gets the most efficient way to execute a trade. As of April 2021, 1inch provides the most efficient way to trade large amount of tokens in a private and decentralized manner.\n\n### Token Description\n\nThe native token on 1inch protocol is 1INCH. The token provides governance rights and can be used for decision making on 1inch protocol changes.\n\nThe 1inch network allows the community to vote for specific protocol settings under the decentralized autonomous organization (DAO) model, in a transparent, user-friendly and efficient way.\n\nUsers who stake their 1INCH tokens, as well as liquidity providers in the 1inch liquidity pools can vote directly on major protocol parameters i.e. the price impact fee, the swap fee, the governance reward, the referral reward, and the decay period.\n\n### Token Emission\n\nThere can be at most 1.5 billion 1INCH tokens. \n\nOn the release day, 6% of the 1INCH token's total issuance of 1.5 billion were unlocked. The remaining tokens are expected to be gradually unlocked over a four-year period through December 30, 2024 in the following manner:  \n\n- community incentives: 30%\n- grants for ecosystem builders: 14.5%\n- backers and core contributors: 55.5%",
+          "description": "### Project Description\n\n1inch exchange is a decentralized exchange and an aggregator that tracks liquidity on all major decentralized crypto exchanges and enables users to discover best trade prices for exchanging tokens. \n\nInstead of swapping tokens from a single liquidity pool, 1inch splits the order across different pools on various exchanges and recommends the most efficient way to execute a trade.\n\nPathfinder is the discovery and routing algorithm developed by the 1inch team. For example, if a user wants to sell ETH for USDT, the pathfinder explores all dexes coins (Uniswap, Sushiswap, Curve, Balancer etc) and suggests the most optimum way to split the order across multiple exchanges in a single transaction. \n\nAs a result the user gets the most efficient way to execute a trade. As of April 2021, 1inch provides the most efficient way to trade large amount of tokens in a private and decentralized manner.\n\n### Token Description\n\nThe native token on 1inch protocol is 1INCH. The token provides governance rights and can be used for decision making on 1inch protocol changes.\n\nThe 1inch network allows the community to vote for specific protocol settings under the decentralized autonomous organization (DAO) model, in a transparent, user-friendly and efficient way.\n\nUsers who stake their 1INCH tokens, as well as liquidity providers in the 1inch liquidity pools can vote directly on major protocol parameters i.e. the price impact fee, the swap fee, the governance reward, the referral reward, and the decay period.\n\n### Token Emission\n\nThere can be at most 1.5 billion 1INCH tokens. \n\nOn the release day, 6% of the 1INCH token's total issuance of 1.5 billion were unlocked. The remaining tokens are expected to be gradually unlocked over a four-year period through December 30, 2024 in the following manner:  \n\n- community incentives: 30%\n- grants for ecosystem builders: 14.5%\n- backers and core contributors: 55.5%",
           "links": {
               "website": "https://1inch.exchange/",
               "whitepaper": "",
@@ -1181,7 +1181,7 @@
       {
           "code": "BAL",
           "name": "Balancer",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": {
               "name": "ethereum",
@@ -1288,7 +1288,7 @@
       {
           "code": "BNT",
           "name": "Bancor",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": {
               "name": "ethereum",
@@ -1708,7 +1708,7 @@
       {
           "code": "CRV",
           "name": "Curve DAO Token",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": {
               "name": "ethereum",
@@ -2049,7 +2049,7 @@
       {
           "code": "DODO",
           "name": "Dodo",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": {
               "name": "ethereum",
@@ -2817,7 +2817,7 @@
       {
           "code": "IDEX",
           "name": "IDEX",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": {
               "name": "ethereum",
@@ -2886,7 +2886,7 @@
       {
           "code": "INJ",
           "name": "Injective Protocol",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": {
               "name": "ethereum",
@@ -2955,7 +2955,7 @@
       {
           "code": "KNC",
           "name": "Kyber Network",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": {
               "name": "ethereum",
@@ -3206,7 +3206,7 @@
       {
           "code": "MCB",
           "name": "MCDex",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": {
               "name": "ethereum",
@@ -3643,7 +3643,7 @@
       {
           "code": "AST",
           "name": "AirSwap",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": { "name": "", "address": "", "type": "" },
           "description": "",
@@ -3683,7 +3683,7 @@
       {
           "code": "PNG",
           "name": "Pangolin",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "description": "",
           "links": {
@@ -5542,7 +5542,7 @@
       {
           "code": "PERP",
           "name": "Perpetual Protocol",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": {
               "name": "ethereum",
@@ -6086,7 +6086,7 @@
       {
           "code": "SNX",
           "name": "Synthetix Network Token",
-          "categories": ["synthetics", "dexes"],
+          "categories": ["synthetics", "dexes coins"],
           "active": true,
           "platform": {
               "name": "ethereum",
@@ -6149,7 +6149,7 @@
       {
           "code": "SRM",
           "name": "Serum",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": {
               "name": "ethereum",
@@ -6259,7 +6259,7 @@
       {
           "code": "SUSHI",
           "name": "Sushi",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": {
               "name": "ethereum",
@@ -6356,7 +6356,7 @@
       {
           "code": "SWRV",
           "name": "Swerve",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": {
               "name": "ethereum",
@@ -6411,7 +6411,7 @@
               "address": "0x8daebade922df735c38c80c7ebd708af50815faa",
               "type": "ERC20"
           },
-          "description": "### Project Description\n\ntBTC is a fully Bitcoin-backed ERC-20 token that’s trustlessly backed by and redeemable for Bitcoin (BTC). In other words, it’s a way for users to deposit their Bitcoin and mint Bitcoin tokens on Ethereum without a middleman or KYC.tBTC makes it possible for Bitcoin holders to tap into Ethereum’s growing list of decentralized finance (DeFi) DApps. For example, smart contract developers could integrate tBTC into their DApps as collateral. Thus, enabling Bitcoin holders to be able to borrow against their BTC. Or, even something as simple as Bitcoin can now be trustlessly listed on decentralized exchanges (DEXes).tBTC is an open-source project supported by groups including Keep, Summa and the Cross-Chain Group.",
+          "description": "### Project Description\n\ntBTC is a fully Bitcoin-backed ERC-20 token that’s trustlessly backed by and redeemable for Bitcoin (BTC). In other words, it’s a way for users to deposit their Bitcoin and mint Bitcoin tokens on Ethereum without a middleman or KYC.tBTC makes it possible for Bitcoin holders to tap into Ethereum’s growing list of decentralized finance (DeFi) DApps. For example, smart contract developers could integrate tBTC into their DApps as collateral. Thus, enabling Bitcoin holders to be able to borrow against their BTC. Or, even something as simple as Bitcoin can now be trustlessly listed on decentralized exchanges (dexes coins).tBTC is an open-source project supported by groups including Keep, Summa and the Cross-Chain Group.",
           "links": {
               "website": "https://tbtc.network/",
               "whitepaper": "",
@@ -6570,7 +6570,7 @@
       {
           "code": "PDEX",
           "name": "Polkadex",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": {
               "name": "ethereum",
@@ -7026,7 +7026,7 @@
         {
             "code": "QUICK",
             "name": "Quickswap",
-            "categories": ["dexes"],
+            "categories": ["dexes coins"],
             "active": true,
             "platform": {
                 "name": "ethereum",
@@ -7049,7 +7049,7 @@
         {
             "code": "MDX",
             "name": "Mdex",
-            "categories": ["dexes"],
+            "categories": ["dexes coins"],
             "active": true,
             "platform": {
                 "name": "",
@@ -7513,7 +7513,7 @@
       {
           "code": "UNI",
           "name": "Uniswap",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": {
               "name": "ethereum",
@@ -7974,7 +7974,7 @@
       {
           "code": "ZRX",
           "name": "0x",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": {
               "name": "ethereum",
@@ -8298,9 +8298,9 @@
       {
           "code": "CAKE",
           "name": "PancakeSwap",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
-          "description": "### Project Description\n\nPancakeSwap is a decentralized exchange (DEX) built on Binance Smart Chain (BSC) for trading BEP20 compliant cryptocurrency tokens in a decentralized and private manner. \n\nPancakeSwap utilizes an automated market making (AMM) system just like Uniswap, SushiSwap and other DEXes. There are no order books. \n\nPancakeSwap is a clone of SushiSwap and has an almost identical codebase but has the advantage of cheaper and faster transactions due to being built on BSC. Typically fees for executing trading transactions are ranging from $0.04 to $0.20, and transactions take less than 5 seconds on average.\n\nAside from cheaper network fees, PancakeSwap offers a lower swap fee of 0.2% while the sector average is typically 0.3%.\n\nOn the back of its low-fee model, PancakeSwap became one of the industry's largest decentralized exchanges by trading volume and total value locked (TVL) in February 2021, standing toe-to-toe with AMM model pioneer Uniswap.\n\n### Token Description\n\nThe native cryptocurrency token on PancakeSwap exchange is CAKE and give its holders a right to propose and vote on changes to PancakeSwap mechanics. \n\nUsers are also able to stake CAKE in the pools of PancakeSwap and earn more CAKE tokens, or even tokens of other projects built on the Binance Smart Chain such as DODO, UST (Terra USD), or LINA (Linear Finance).\n\n### Token Emission\n\nThere's currently no hard cap on the supply of CAKE token, making it an inflationary token. \n\nThe CAKE token's primary function is to incentivize providing liquidity to the exchange. That's how the CAKE token created.\n\nDaily emission (based on 30k blocks per day) is 1.2 million CAKE, but with 450,000 per day burned the effective daily emission is 750,000 CAKE per day.\n\n- Farmers: 450,000 CAKE\n- CAKE holders: 300,000 CAKE\n\nThere are some deflationary measures in place which consistently destroy CAKE tokens. All burn processes are currently manual.\n\n- 9.09% of CAKE harvested from farms are burned\n- 10% of CAKE spent on lottery tickets are burned\n- 100% of CAKE raised in IFOs are burned\n\nThere is no supply cap for CAKE. PancakeSwap team is planning transition to a community-led emissions model, where governance vote will be held at the end of each month to decide how emissions are to be adjusted for the following month.",
+          "description": "### Project Description\n\nPancakeSwap is a decentralized exchange (DEX) built on Binance Smart Chain (BSC) for trading BEP20 compliant cryptocurrency tokens in a decentralized and private manner. \n\nPancakeSwap utilizes an automated market making (AMM) system just like Uniswap, SushiSwap and other dexes coins. There are no order books. \n\nPancakeSwap is a clone of SushiSwap and has an almost identical codebase but has the advantage of cheaper and faster transactions due to being built on BSC. Typically fees for executing trading transactions are ranging from $0.04 to $0.20, and transactions take less than 5 seconds on average.\n\nAside from cheaper network fees, PancakeSwap offers a lower swap fee of 0.2% while the sector average is typically 0.3%.\n\nOn the back of its low-fee model, PancakeSwap became one of the industry's largest decentralized exchanges by trading volume and total value locked (TVL) in February 2021, standing toe-to-toe with AMM model pioneer Uniswap.\n\n### Token Description\n\nThe native cryptocurrency token on PancakeSwap exchange is CAKE and give its holders a right to propose and vote on changes to PancakeSwap mechanics. \n\nUsers are also able to stake CAKE in the pools of PancakeSwap and earn more CAKE tokens, or even tokens of other projects built on the Binance Smart Chain such as DODO, UST (Terra USD), or LINA (Linear Finance).\n\n### Token Emission\n\nThere's currently no hard cap on the supply of CAKE token, making it an inflationary token. \n\nThe CAKE token's primary function is to incentivize providing liquidity to the exchange. That's how the CAKE token created.\n\nDaily emission (based on 30k blocks per day) is 1.2 million CAKE, but with 450,000 per day burned the effective daily emission is 750,000 CAKE per day.\n\n- Farmers: 450,000 CAKE\n- CAKE holders: 300,000 CAKE\n\nThere are some deflationary measures in place which consistently destroy CAKE tokens. All burn processes are currently manual.\n\n- 9.09% of CAKE harvested from farms are burned\n- 10% of CAKE spent on lottery tickets are burned\n- 100% of CAKE raised in IFOs are burned\n\nThere is no supply cap for CAKE. PancakeSwap team is planning transition to a community-led emissions model, where governance vote will be held at the end of each month to decide how emissions are to be adjusted for the following month.",
           "links": {
               "website": "https://pancakeswap.finance/",
               "whitepaper": "",
@@ -8519,7 +8519,7 @@
       {
           "code": "LRC",
           "name": "Loopring",
-          "categories": ["dexes", "scaling"],
+          "categories": ["dexes coins", "scaling"],
           "active": true,
           "platform": {
               "name": "ethereum",
@@ -8637,7 +8637,7 @@
       {
           "code": "REN",
           "name": "REN",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "description": "### Project Description\n\nRen, formerly known as Republic Protocol, makes the cryptocurrency transfers between blockchains easy, transparent, and secure in a private model. \n\nRen provided capability for decentralized apps (i.e. projects in DeFi ecosystem) on Ethereum, Binance Smart Chain and potentially other blockchains to bring external cryptocurrency assets like Bitcoin (BTC), Bitcoin Cash (BCH), Zcash (ZEC) and Doge (DOGE) to their offerings. \n\nFor instance, Ren provides a Bitcoin equivalent on Ethereum blockchain known as renBTC allowing anyone to exchange BTC to renBTC and vice a versa to a large extent in a trustless manner. The same thing cannot be said about wBTC (wrapped Bitcoin) which requires users to trust the entity behind wBTC coins which rperesents a point of failure. Swapping BTC to renBTC and back is faster than alternative technology known as atomic swaps.\n\nIt should further be noted that Ren converts external assets (ex: BTC) to an Ethereum ERC20 type token (ex: renBTC) giving the underlying asset all properties of ERC20 token standard.\n\nThe engine that powers decentralized interoperability solution of Ren is called RenVM, which is a network of network nodes (Darknodes) making up a virtual machine. RenVM is a sort of rustless custodian for cryptocurrency – every renBTC token issues by Ren is backed by an equivalent BTC token stored in the RenVM.\n\nThe RenVM network is also trustless, meaning there is no central authority that can stop you minting or redeeming tokens.\n\n### Token Description\n\nThe native cryptocurrency token on Ren protocol is REN. The token is required for running a node on the RenVM network. 100,000 REN tokens are required to register and run a Darknode. \n\nAlthough, the REN token has no other use case than for operating a node, people are encouraged to run Darknodes as they can earn fees in more popular cryptocurrencies like BTC and ETH. \n\n### Token Emission\n\nThe Ren token, called REN has a fixed supply of 1 billion tokens. It is an ERC20 compliant token sold during the token sale. \n\nDuring the two rounds of ICO, 60.2% of the tokens were sold to investors. Ren conducted a presale and public token sale in 2018, during which a total of 60.2% of the supply was sold to investors.\n\nIt has a reserve fund of 19.9% of the total supply with 9.9% of the fund allocated internally to advisors, the team, and its founders.\n\nThe team tokens came with a two-year lock-up period, with a six-month lock-up for advisor allocations.\n\nAlso, 10% of the REN supply is specifically for partnerships, development, and other activities.",
           "links": {
@@ -8691,7 +8691,7 @@
       {
           "code": "RUNE",
           "name": "THORChain",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "description": "### Project Description\n\nTHORChain is an independent blockchain that serves as a decentralized exchange (DEX) allowing users to swap cryptocurrencies residing on different blockchains in a decentralized manner. \n\nIt's like Uniswap but goe beyond the boundaries of a single blockchain. In fact, its core offering is to enable cross-blockchain token swaps in a non-custodial manner, without involving a party that need to be trusted.\n\n### Token Description\n\nThe native cryptocurrency of THORChain is called RUNE. \n\nSome uses for RUNE include:\n\n- Validators must stake RUNE to be part of the Validator Sets.\n- All network transaction fees are paid in RUNE.\n- RUNE holders can stake their holding in THORChain liquidity pools Continuous Liquidity Pools (CLPs) to earn rewards from network service fees.\n- Block rewards to validator nodes are paid in RUNE.\n\n### Token Emission\n\nRUNE has a 500 million max supply with tokens allocated as shown below. The project opted to distribute tokens through a few tokens sales, a reward mechanism for providing liquidity, and direct allocations to early contributors:\n\n- Nodes & liquidity incentives: ~220.5 million RUNE. Two-thirds of this goes to service nodes (aka validators), and the remaining third to liquidity incentives.\n- THORChain company: 65 million (vested over 40 months).\n- Community reserves (RUNEVault): 60 million, emitted over 2.5 years. RUNEVault issues 2 million RUNE each month as part of its staking rewards program.\n- Team & Advisors: 50 million, locked until mainnet launch, then released in 20% batches every 3 montns.\n- Seed investors: 30 million, of which 4 million were distributed immediately. Locked until mainnet launch, then released in 20% batches every 3 months.\n- Private Sale investors: 70 million. 50% of this pool was unlocked upon distribution to provide enough liquidity on Binance DEX. The other half unlocked one week after the close of THORChain's initial DEX offering (IDO).\n- Initial DEX Offering (IDO): 7 million, no vesting schedule.",
           "links": {
@@ -8979,7 +8979,7 @@
       {
           "code": "EPS",
           "name": "Ellipsis",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": { "name": "", "address": "", "type": "" },
           "description": "",
@@ -9705,7 +9705,7 @@
       {
           "code": "RAY",
           "name": "Raydium",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": { "name": "", "address": "", "type": "" },
           "description": "### Project Description\n\nRaydium is a high speed and low-fee decentralized exchange built on top of Solana blockchain and uses a Uniswap style automated market maker (AMM) model to settle trades. Users can exchange two tokens at great speeds in a deentralized manner.\n\nWhat makes it standout from other AMM based decentralized exchanges is that Radium is tightly integrated with Serum decentralized exchange and connects all of its liquidity pools to the orderflow of Serum exchange. In other words, Raydium provides liquidity to Serum's limit order book, meaning that Raydium's users and liquidity pools have access to the order flow and liquidity of the entire Serum ecosystem, and vice versa. \n\nAmong other things, Raydium gives users the option to view trade charts and set limit orders.\n\n### Token Description\n\nThe native cryptocurrency token of Raydium is RAY. \n\nUsers may stake RAY tokens and earn a percentage of transaction fees originating from trades. Traders that make transactions on the platform pay a fee, which is then redistributed to liquidity providers and stakers.\n\nOne other way through which users can earn RAY tokens is by depositing their funds to farming pools. \n\n### Token Emission\n\nThere is a hard cap of 555 million of RAY tokens.\n\n- Team : 20% (locked 1-3 years)\n\n- Advisors : 2% (locked 1-3 years)\n\n- Partnerships : 2%\n\n- Mining : 34% (over 36 months)\n\n- Liquidity Reserve : 8% \n\n- Community and Seed : 6%  (locked 1-3 years)",
@@ -9771,7 +9771,7 @@
       {
           "code": "ANY",
           "name": "Anyswap",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": { "name": "", "address": "", "type": "" },
           "description": "",
@@ -9791,7 +9791,7 @@
       {
           "code": "BURGER",
           "name": "Burger Swap",
-          "categories": ["dexes"],
+          "categories": ["dexes coins"],
           "active": true,
           "platform": { "name": "", "address": "", "type": "" },
           "description": "",
